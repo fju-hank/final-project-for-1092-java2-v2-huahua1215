@@ -1,5 +1,6 @@
 package com.fju;
 
 public class User {
-    String name;
+    public static String name;
+    public static String password;
 }
