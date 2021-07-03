@@ -2,6 +2,9 @@ package com.fju;
 
 public class Tester {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        BookTickets bookTicket = new BookTickets();
+        bookTicket.doing();
     }
+
+
 }
